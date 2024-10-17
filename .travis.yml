@@ -15,3 +15,7 @@ script:
 
 after_success:
   - coveralls
+
+'''
+Travis CI is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub and other version control systems. It automates the process of testing code changes to ensure that they don't introduce errors or regressions, thereby helping maintain the quality of the software. When you push changes to a repository, Travis CI automatically detects it, runs the build as per the instructions defined in the .travis.yml file in the root of the repository, and then reports the outcome.
+'''

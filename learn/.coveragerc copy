@@ -1,0 +1,6 @@
+[run]
+source = clausewitz
+
+'''
+coveragerc tracks which parts of your code are executed when running your tests and which parts are not, helping you understand how well your tests cover your codebase.
+'''

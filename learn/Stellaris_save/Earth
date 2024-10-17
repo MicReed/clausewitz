@@ -1,0 +1,1830 @@
+		3=
+		{
+			name=
+			{
+				key="NAME_Earth"
+			}
+			planet_class="pc_continental"
+			coordinate=
+			{
+				x=9.3516
+				y=59.3976
+				origin=354
+				randomized=no
+				visual_height=0.000000
+			}
+			orbit=60
+			planet_size=18
+			bombardment_damage=0
+			last_bombardment="0.01.01"
+			planet_automation_settings=
+			{
+				"planet_automation_deficit_restriction"
+				"planet_automation_designation_construction"
+				"planet_automation_upgrade_buildings"
+				"planet_automation_amenities"
+				"planet_automation_rare_resources"
+				"planet_automation_pop_assembly"
+				"planet_automation_housing"
+				"planet_automation_building_slot"
+				"planet_automation_crime"
+				"planet_automation_clear_blockers"
+				"planet_automation_biotrophy_management"
+				"planet_automation_worm"
+				"planet_automation_permanent_employment_center"
+				"planet_automation_psi_corps_building"
+			}
+			automated_development=no
+			owner=0
+			original_owner=0
+			governor=132
+			controller=0
+			moons=
+			{
+				4 
+			}
+			pop=
+			{
+				0 1 4 5 6 7 8 9 10 11 12 13 14 15 18 19 20 22 23 24 25 26 27 803 804 893 920 947 954 1024 1156 1324 959 16777975 1538 1594 1630 1679 1732 2224 2358 2488 2637 2755 2800 2854 2973 33555137 3016 3092 3141 
+			}
+			buildings=
+			{
+				33554696 195 139 164 196 197 198 16777456 16777379 50331790 
+			}
+			district="district_city"
+			district="district_city"
+			district="district_city"
+			district="district_industrial"
+			district="district_generator"
+			district="district_industrial"
+			district="district_generator"
+			district="district_generator"
+			district="district_city"
+			district="district_city"
+			district="district_city"
+			district="district_generator"
+			district="district_generator"
+			district="district_city"
+			district="district_generator"
+			district="district_generator"
+			district="district_generator"
+			last_building_changed="building_major_capital"
+			last_district_changed="district_generator"
+			colonize_date="2200.01.01"
+			kill_pop="0.01.01"
+			build_queue=6
+			army_build_queue=7
+			externally_owned_build_queues=
+			{
+				
+				{
+					key=4294967295					value=8801				}
+			}
+			planet_orbitals=
+			{
+			}
+			army=
+			{
+				290 16777505 16777517 16777259 16777704 16777705 961 966 16778145 50332421 16778192 981 
+			}
+			flags=
+			{
+				planet_earth=62808000
+				pre_sapient_planet=62808000
+			}
+			variables=
+			{
+				assimilation_counter
+=0
+			}
+			entity=3
+			pop_to_kill_from_devastation=2800
+			entity_name="continental_planet_earth_entity"
+			explicit_entity=yes
+			prevent_anomaly=yes
+			deposits=
+			{
+				520 521 522 523 524 525 526 527 528 16777307 
+			}
+			pop_assembly=2.645
+			assembling_species_ref=172
+			forced_assembling_species_ref=172
+			job_priority=
+			{
+				job="clerk"
+				priority=0
+			}
+			favorite_jobs=
+			{
+			}
+			stability=89.5136
+			migration=0
+			crime=0
+			amenities=83
+			amenities_usage=39
+			free_amenities=44
+			free_housing=29
+			total_housing=81
+			housing_usage=52
+			employable_pops=51
+			num_sapient_pops=51
+			recalc_pops=no
+			jobs_cache=
+			{
+				
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=3
+					max_employed=3
+					max_without_prio=3
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=4
+					max_employed=4
+					max_without_prio=4
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=2
+					max_employed=2
+					max_without_prio=2
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=2
+					max_employed=2
+					max_without_prio=2
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=1
+					max_employed=1
+					max_without_prio=1
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=5
+					max_employed=5
+					max_without_prio=5
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=4
+					max_employed=4
+					max_without_prio=4
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=7
+				}
+ 
+				{
+					num_employed=18
+					max_employed=18
+					max_without_prio=18
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=7
+					max_employed=7
+					max_without_prio=7
+				}
+ 
+				{
+					num_employed=1
+					max_employed=1
+					max_without_prio=1
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=4
+					max_employed=4
+					max_without_prio=4
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+				{
+					num_employed=0
+					max_employed=0
+					max_without_prio=0
+				}
+ 
+			}
+			designation="col_capital"
+			manual_designation_changed_date="2206.06.15"
+			final_designation="col_capital"
+			ascension_tier=0
+			auto_slots_taken=
+			{
+				yes yes yes yes yes yes yes yes yes yes no no 
+			}
+			last_auto_mod_index=16
+			species_refs=
+			{
+				79 80 82 85 86 92 146 
+			}
+			species_information=
+			{
+				79=
+				{
+					num_pops=1
+				}
+				80=
+				{
+					num_pops=5
+				}
+				82=
+				{
+					num_pops=5
+				}
+				85=
+				{
+					num_pops=28
+				}
+				86=
+				{
+					num_pops=2
+				}
+				92=
+				{
+					num_pops=9
+				}
+				146=
+				{
+					num_pops=1
+				}
+			}
+		}

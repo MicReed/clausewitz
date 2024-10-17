@@ -1,0 +1,5 @@
+recursive-exclude tests *
+
+'''
+simply put, the MANIFEST.in file specifies which files and folders should not be included in the source distribution package that can be installed by pip. This helps in controlling the size and contents of the package by excluding unnecessary files, such as tests or documentation, from being distributed
+'''

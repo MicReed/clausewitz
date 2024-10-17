@@ -1,0 +1,32 @@
+build: ci version
+	python setup.py sdist
+
+name := pypdx-clausewitz
+v := `python -c "from clausewitz import __version__; print(__version__)"`
+
+version:
+	@echo "Current version: $(v). Do you confirm? (y/n)"
+	@read y_n && [ "$${y_n}" == "y" ]
+
+lint:
+	flake8 .
+
+test:
+	pytest --cov --cov-report term-missing:skip-covered
+
+ci: lint test
+
+upload: build
+	twine upload "dist/$(name)-$(v).tar.gz"
+
+# Automation of Development Tasks: It automates common development tasks like linting (flake8 .) and testing (pytest --cov --cov-report term-missing:skip-covered), making it easier for developers to maintain code quality and ensure functionality works as expected.
+
+# Version Management: It assists in version management by extracting the current version from the package's code (python -c "from clausewitz import __version__; print(__version__)") and asking for confirmation before proceeding with building or uploading the package.
+
+# Building Distributions: It automates the creation of source distributions (python setup.py sdist), which are archives of the package's source code and resources, ready for distribution to other developers or deployment environments.
+
+# Continuous Integration (CI) Support: By defining a ci target that runs both linting and testing, the Makefile supports Continuous Integration workflows, ensuring that code changes are automatically tested and meet quality standards before they are merged or released.
+
+# Package Distribution: It simplifies the process of uploading the built package to a package repository (twine upload "dist/$(name)-$(v).tar.gz") by automating the command that uploads the distribution file, making it easier to release new versions of the package
+
+# Overall, the Makefile acts as a central hub for managing various aspects of the package's lifecycle, from development to distribution, enhancing productivity and consistency across development and deployment processes.
